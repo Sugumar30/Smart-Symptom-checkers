@@ -1,0 +1,13 @@
+{
+  "name": "Smart Symptom Checker",
+  "description": "AI-powered symptom analysis, severity detection, and nearby hospital locator.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI Analysis",
+    "Voice Recognition",
+    "Medical Guidance"
+  ]
+}
